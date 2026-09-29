@@ -1,10 +1,57 @@
-Version used-
-python - 3.13.0
-django - 5.1.2
-postgresql used.
+# Hospital Management System
 
-Html to pdf 
+A web-based Hospital Management System built using Django and PostgreSQL.
 
-pip install WeasyPrint
+## About
 
-https://github.com/tschoonj/GTK-for-Windows-Runtime-Environment-Installer/releases
+This project is designed to manage basic hospital-related operations through a Django web application.
+
+## Technologies Used
+
+* Python
+* Django
+* PostgreSQL
+* HTML
+* WeasyPrint
+
+## Features
+
+* Hospital management
+* Database management using PostgreSQL
+* Web-based interface
+* Generate PDF documents
+
+## Requirements
+
+* Python 3.13
+* Django 5.1.2
+* PostgreSQL
+
+## Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/AnandakrishnanVB/hospital-management.git
+cd hospital-management
+```
+
+Install the required packages and configure PostgreSQL for the project.
+
+Then run the Django development server:
+
+```bash
+python manage.py runserver
+```
+
+Open the application in your browser at:
+
+```text
+http://127.0.0.1:8000/
+```
+
+## Author
+
+**Anandakrishnan VB**
+
+GitHub: https://github.com/AnandakrishnanVB
