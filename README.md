@@ -52,6 +52,6 @@ http://127.0.0.1:8000/
 
 ## Author
 
-**Anandakrishnan VB**
+**Anandakrishnan V B**
 
 GitHub: https://github.com/AnandakrishnanVB
